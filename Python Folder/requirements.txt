@@ -1,0 +1,7 @@
+flask
+pandas
+gunicorn
+numpy
+scipy
+git-lfs
+
