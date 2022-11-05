@@ -7,6 +7,7 @@ This includes the folder for the python code and the flutter code used throughou
 Inside the ainime folder contains the Flutter project of the application. 
 The assets folder mainly contain the datasets.
 The lib folder contains the following folders:
+
 The api folder contain the Dart files that acts as the communication between Flutter, Heroku and Github.
 The model folder contain the Dart file that contain the objects and classes to be compatible with Json.
 The page folder contain the Dart files that acts as the UI of the application. 
